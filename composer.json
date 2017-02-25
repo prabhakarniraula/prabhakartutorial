@@ -1,0 +1,15 @@
+{
+	"name": "yiiextension/hello-world",
+
+	"authors" : [
+		"name" : "prabhakarniraula"
+	],
+
+	"require" : {},
+
+	"autoload" : {
+		"psr-0" : {
+			"HelloWorld" : "src/"
+		}
+	}
+}
