@@ -2,7 +2,7 @@
 	"name": "yiiextension/hello-world",
 
 	"authors" : [
-		"name" : "prabhakarniraula"
+		"name" : "prabhakarniraula",
 	],
 
 	"require" : {},
